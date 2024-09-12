@@ -1,0 +1,49 @@
+/* Customize the background color and font styles */
+body {
+  background-color: #f8f8f8;
+  font-family: 'Helvetica Neue', sans-serif;
+}
+
+/* Customize the heading styles */
+h1 {
+  font-size: 36px;
+  margin-top: 20px;
+}
+
+h3 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+/* Customize the paragraph styles */
+p {
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+/* Customize the contact list styles */
+ul.list-unstyled li {
+  font-size: 18px;
+  margin-top: 10px;
+  padding-left: 0;
+  list-style: none;
+}
+
+ul.list-unstyled li i {
+  margin-right: 10px;
+}
+
+/* Customize the profile picture */
+img.img-responsive {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Customize the horizontal rule styles */
+hr {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border: 0;
+  border-top: 1px solid #ddd;
+}

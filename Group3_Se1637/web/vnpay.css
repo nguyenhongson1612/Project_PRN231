@@ -1,0 +1,38 @@
+
+p {
+    margin: 0;
+}
+
+.container {
+    max-width: unset !important;
+}
+
+.text-end {
+    text-align: end;
+}
+
+.fs-5 {
+    font-size: 18px;
+}
+
+.detail {
+    display: flex;
+}
+
+.img-container {
+    width: 150px;
+    margin-right: 20px;
+    aspect-ratio: 16/9;
+}
+
+.img-container img {
+    width: 100%;
+    object-fit: cover;
+}
+
+.product-detail {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+

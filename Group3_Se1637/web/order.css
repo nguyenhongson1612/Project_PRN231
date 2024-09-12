@@ -1,0 +1,19 @@
+.order-container {
+  width: 500px;
+  margin: auto;
+  padding: 50px 0;
+}
+
+.order-container form {
+    background: #0083ff;
+}
+
+.input-group-text {
+    width: 60px !important;
+    display: flex;
+    justify-content: center;
+}
+
+.btn-orange {
+    background: #fcb715 !important
+}
